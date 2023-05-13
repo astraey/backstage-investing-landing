@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="https://app.backstageinvesting.com"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
+                Sign In
               </a>
             </div>
           </nav>

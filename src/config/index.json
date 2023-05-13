@@ -28,8 +28,8 @@
   },
   "mainHero": {
     "title": "Tune out the noise",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "Invest like a pro.",
+    "description": "We help you answer the fundamental questions of investing: Is a company making money today? How is it positioned to make money in the future? And, is it overvalued or undervalued, based on the first two answers?",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Sign In",
@@ -37,11 +37,11 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:astray53@gmail.com?subject=Hey Backstage Investing!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Backstage Investing",
     "items": [
       {
         "title": "A plug n play template",
@@ -86,31 +86,32 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
+        "name": "Free Account",
         "price": "$0",
-        "priceDetails": "for one user",
-        "features": ["3 pages/day", "1 GB of storage", "Email support"]
+        "priceDetails": "/ month",
+        "features": ["2 companies / day", "Email support"]
       },
       {
-        "name": "Pro",
+        "name": "Club Membership",
         "price": "$6.99",
-        "priceDetails": "per user",
+        "priceDetails": "/ month",
 
         "features": [
-          "5 users",
+          "20 companies / day",
+          "Weekly Stock Picks",
           "Priority Support",
-          "10 GB of storage",
           "Phone and Email support"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Ultimate Membership",
+        "price": "$490",
+        "priceDetails": "/ month",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
+          "∞ companies / day",
+          "Access to our AI Model",
+          "Weekly Stock Picks",
+          "24/7 Priority Support",
           "Phone and Email support"
         ]
       }
